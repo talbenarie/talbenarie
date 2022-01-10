@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tal Ben Arie known as the founder of TechnoTal.com
+- 👋 Hi, I’m Tal Ben Arie, the founder of TechnoTal.com
 - 💞️ Currently working as Game & Software developer (Client & Server)
-- ✨ Current working on: Shinobi Warfare
+- ✨ My current projects are: Shinobi Warfare
 - 📫 You can contact me trough various platforms, discord: tal#0350, facebook: https://www.facebook.com/iTechnoTal/
 
 
