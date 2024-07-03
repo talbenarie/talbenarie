@@ -4,9 +4,9 @@
 - 📫 You can contact me trough various platforms.
 
 Social Media: 
-Discord: technotal
-Facebook: https://www.facebook.com/technotalgaming
-Twitter: https://twitter.com/itechnotal
+Discord: technotal <br>
+Facebook: https://www.facebook.com/technotalgaming <br>
+Twitter: https://twitter.com/itechnotal <br>
 
 
 <!---
