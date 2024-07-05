@@ -7,7 +7,6 @@ Social Media:
 Discord: technotal <br>
 Facebook: https://www.facebook.com/technotalgaming <br>
 Twitter: https://twitter.com/itechnotal <br>
-Blowfish Ticket 1832
 
 
 <!---
